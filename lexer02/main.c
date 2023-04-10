@@ -16,7 +16,7 @@ enum TokenType {
 };
 
 static const char *TokenTypeStrings[] = {
-  "IDENTIFICADOR", 
+  "INVALIDO", 
   "MAIS", 
   "MENOS", 
   "MULTIPLIC", 
